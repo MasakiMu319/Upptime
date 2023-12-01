@@ -18,6 +18,26 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "NovaXNS",
+    "url": "https://hk1.pro.xns.one",
+    "icon": "https://icons.duckduckgo.com/ip3/hk1.pro.xns.one.ico",
+    "slug": "nova-xns",
+    "status": "up",
+    "uptime": "80.22%",
+    "uptimeDay": "80.22%",
+    "uptimeWeek": "80.22%",
+    "uptimeMonth": "80.22%",
+    "uptimeYear": "80.22%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-01": 0
+    }
+  },
+  {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
@@ -51,24 +71,6 @@
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 160,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
