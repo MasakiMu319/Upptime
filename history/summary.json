@@ -22,19 +22,19 @@
     "url": "https://hk1.pro.xns.one",
     "icon": "https://icons.duckduckgo.com/ip3/hk1.pro.xns.one.ico",
     "slug": "nova-xns",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1151,
-    "timeDay": 1868,
-    "timeWeek": 1140,
-    "timeMonth": 1151,
-    "timeYear": 1151,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1297,
+    "timeDay": 2625,
+    "timeWeek": 1550,
+    "timeMonth": 1297,
+    "timeYear": 1297,
     "dailyMinutesDown": {
-      "2023-12-23": 9
+      "2023-12-23": 0
     }
   },
   {
