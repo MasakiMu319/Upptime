@@ -22,7 +22,7 @@
     "url": "https://hk1.pro.xns.one",
     "icon": "https://icons.duckduckgo.com/ip3/hk1.pro.xns.one.ico",
     "slug": "nova-xns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 653,
     "timeMonth": 1026,
     "timeYear": 1026,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-23": 0
+    }
   },
   {
     "name": "Wikipedia",
